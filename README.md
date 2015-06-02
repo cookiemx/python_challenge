@@ -2,16 +2,16 @@
 
 answer for python challenge:
 
-0. 274877906944
+0: 274877906944
 
-1. ocr
+1: ocr
 
-2. equality
+2: equality
 
-3. linkedlist
+3: linkedlist
 
-4. peak
+4: peak
 
-5. channel
+5: channel
 
-6. oxygen
+6: oxygen

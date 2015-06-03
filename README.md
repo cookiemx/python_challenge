@@ -17,3 +17,6 @@ answer for python challenge:
 6: oxygen
 
 7: integrity
+
+8: username: huge
+   password: file

@@ -15,3 +15,5 @@ answer for python challenge:
 5: channel
 
 6: oxygen
+
+7: integrity

@@ -26,8 +26,8 @@ second = [156,141,165,135,169,131,176,130,187,134,191,140,191,146,186,150,179,15
 158,121,157,128,156,134,157,136,156,136]
 
 dots = first +second
-i = Image.open("good.jpg")
-image = Image.new(i.mode, i.size)
+
+image = Image.new('RGB',(640,480))
 
 for i in range(0,len(dots),2):
 	x = dots[i]

@@ -27,4 +27,4 @@ answer for python challenge:
 
 11: evil
 
-12: disproportionality
+12: disproportional

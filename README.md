@@ -26,3 +26,5 @@ answer for python challenge:
 10: 5808
 
 11: evil
+
+12: disproportionality

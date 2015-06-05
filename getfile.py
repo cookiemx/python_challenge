@@ -1,3 +1,6 @@
 import urllib
 
-urllib.urlretrieve("http://www.pythonchallenge.com/pc/return/cave.jpg", "cave.jpg")
+print "Enter a file name:",
+filename = raw_input()
+
+urllib.urlretrieve("http://huge:file@www.pythonchallenge.com/pc/return/"+filename, filename)

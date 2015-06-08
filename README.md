@@ -30,3 +30,5 @@ answer for python challenge:
 12: disproportional
 
 13. italy
+
+14. cat -> uzi
